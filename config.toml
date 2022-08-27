@@ -11,12 +11,7 @@ defaultContentLanguage = "en"
 canonifyURLs = true
 enableRobotsTXT = true
 
-[server]
-[[redirects]]
-force = true
-from = "/**"
-to = "/404"
-status = 404
+publishDir = "docs"
 
 [params]
     copyright = "Copyright © 2022 Ferreira • All Rights Reserved"

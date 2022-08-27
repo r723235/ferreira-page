@@ -7,9 +7,10 @@ As you may or may not know, adopting requires a bit of paperwork, legal stuff, a
 
 Our agency has provided an estimated "at-a-glance" fees breakdown:
 
-- Agency Fees: $14k
-- Third Party Fees: $16k
-- Travel Expenses: $9k
+- Agency Fees
+- Third Party Fees
+- Travel Expenses
+- Other miscellaneous items
 
 Thankfully, each of these don't have to be paid up front and are staggered throughout the process.
 

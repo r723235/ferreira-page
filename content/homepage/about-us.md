@@ -8,7 +8,7 @@ It is somewhat surreal to be typing the following words. It doesn’t even seem 
 
 Before saying more about that, let's go back a bit so we can share our story and the process thus far.
 
-Cristina and I got married 9-ish years ago. We were both certain on a few things: that we wanted to grow our family, we wanted to wait a some time to start trying (because we wanted to soak in married life), and we had a desire to adopt. Everything was planned. Everything had an order.
+Cristina and I got married 9-ish years ago. We were both certain on a few things: that we wanted to grow our family, we wanted to wait some time to start trying (because we wanted to soak in married life), and we had a desire to adopt. Everything was planned. Everything had an order.
 
 Well, it was easy to think we were in control of our future back then, but we failed to remember one simple truth: "The heart of man plans his way, but the LORD establishes his steps (Proverbs 16:9)."
 
