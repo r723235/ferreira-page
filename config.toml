@@ -14,25 +14,12 @@ enableRobotsTXT = true
 publishDir = "docs"
 
 [params]
+    title = "Ferreira's Adoption Journey"
     copyright = "Copyright © 2022 Ferreira • All Rights Reserved"
-
-    # this is used in the meta data of the generated html
     description = "Ferreira's Adoption Journey"
-
-    # path to favicon
     favicon = "images/flag-colombia.png"
-
-    # These "images" are used for the structured data templates. This will show up, when
-    # services like Twitter or Slack want to generate a preview of a link to your site.
-    # See https://gohugo.io/templates/internal#twitter-cards and
-    # https://gohugo.io/templates/internal#open-graph.
     images = ["images/cover-image.jpg"]
 
-    # see https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Ferreira's Adoption Journey"
-
-    # This theme will, by default, inject a design-by-line at the bottom of the page.
-    # You can turn it off, but we would really appreciate if you don’t :-)
     hidedesignbyline = true
 
     [params.meta]
