@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ferreira.page/sitemap.xml
