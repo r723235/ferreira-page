@@ -2,7 +2,6 @@ baseURL = "https://ferreira.page/"
 title = "Ferreira's Adoption Journey"
 theme = "hugo-scroll"
 
-# this is a "one page" website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 languageCode = "en-us"
