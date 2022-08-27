@@ -1,5 +1,5 @@
 ---
-title: "Adoption Story"
+title: "Our Story"
 weight: 1
 header_menu: true
 ---
