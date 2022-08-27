@@ -1,0 +1,44 @@
+baseURL = "https://ferreira.page"
+title = "Ferreira's Adoption Journey"
+theme = "hugo-scroll"
+
+# this is a "one page" website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS"]
+
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+canonifyURLs = true
+enableRobotsTXT = true
+
+[server]
+[[redirects]]
+force = true
+from = "/**"
+to = "/404"
+status = 404
+
+[params]
+    copyright = "Copyright © 2022 Ferreira • All Rights Reserved"
+
+    # this is used in the meta data of the generated html
+    description = "Ferreira's Adoption Journey"
+
+    # path to favicon
+    favicon = "images/flag-colombia.png"
+
+    # These "images" are used for the structured data templates. This will show up, when
+    # services like Twitter or Slack want to generate a preview of a link to your site.
+    # See https://gohugo.io/templates/internal#twitter-cards and
+    # https://gohugo.io/templates/internal#open-graph.
+    images = ["images/cover-image.jpg"]
+
+    # see https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title = "Ferreira's Adoption Journey"
+
+    # This theme will, by default, inject a design-by-line at the bottom of the page.
+    # You can turn it off, but we would really appreciate if you don’t :-)
+    hidedesignbyline = true
+
+    [params.meta]
+        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
