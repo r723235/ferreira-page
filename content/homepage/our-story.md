@@ -1,7 +1,6 @@
 ---
 title: "Our Story"
 weight: 1
-header_menu: true
 ---
 
 It is somewhat surreal to be typing the following words. It doesn’t even seem fully real yet and just seems like a dream to even be sharing this news with y'all. Well, here it it... We are adopting! 🎉
